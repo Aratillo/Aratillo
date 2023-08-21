@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Shopify Projects
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning PHP and React
 - 💬 Ask me about Shopify store set-ups
-- 📫 How to reach me: a
+- 📫 How to reach me: jafos@jonathanallan.dev
 - 😄 Pronouns: He/him
 
 <h3>My Tools</h3> 
