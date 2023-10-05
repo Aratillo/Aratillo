@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Shopify Projects
-- 🌱 I’m currently learning PHP and React
+- 🔭 I’m currently working on creating high-converting online Shopify stores
+- 🌱 I’m currently learning React, GraphQL and Shopify script
 - 💬 Ask me about Shopify store set-ups
 - 📫 How to reach me: jafos@jonathanallan.dev
 
