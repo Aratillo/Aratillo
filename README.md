@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on creating high-converting online Shopify stores
 - 🌱 I’m currently learning React, GraphQL and Shopify script
-- 💬 Ask me about Shopify store set-ups
+- 💬 Ask me about ANYTHING Shopify related
 - 📫 How to reach me: jafos@jonathanallan.dev
 
 <h3>My Tools</h3> 
